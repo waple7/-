@@ -1,2 +1,2 @@
 document.body.innerHTML='<h1>Minecraft<h1>'
-console.log('Test2')
+console.log('Tesvbnvnt2')
